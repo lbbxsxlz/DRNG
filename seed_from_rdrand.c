@@ -162,3 +162,4 @@ int main (int argc, char *argv[])
 	printf("Seed:\n");
 	hexdump(seed, 16);
 }
+

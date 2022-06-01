@@ -50,3 +50,4 @@ int _has_cpuid ();
 int _is_intel_cpu ();
 
 #endif
+

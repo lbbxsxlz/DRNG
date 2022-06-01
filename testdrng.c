@@ -199,3 +199,4 @@ void test_rdseed()
 	}
 #endif
 }
+

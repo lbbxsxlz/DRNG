@@ -150,3 +150,4 @@ int main (int argc, char *argv[])
 	printf("rdrand128:\n");
 	hexdump(rand, 16);
 }
+

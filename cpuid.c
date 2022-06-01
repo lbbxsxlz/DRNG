@@ -111,3 +111,4 @@ void cpuid (cpuid_t *info, unsigned int leaf, unsigned int subleaf)
 
 #endif
 }
+
